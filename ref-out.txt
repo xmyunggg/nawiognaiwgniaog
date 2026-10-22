@@ -1,0 +1,1 @@
+Get-ChildItem -Recurse -File 'C:\Users\Administrator\Downloads\qq-farm-bot_AtTdM\core\src' | Measure-Object; Get-ChildItem 'C:\Users\Administrator\Downloads\qq-farm-bot_AtTdM\core\src' | Select-Object Name
