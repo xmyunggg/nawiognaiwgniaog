@@ -29,7 +29,7 @@
 ### 方式 A：Docker Compose 部署（推荐）
 
 ```bash
-git clone https://github.com/aaang99/qq-farm-bot-404.git
+git clone https://github.com/xmyunggg/nawiognaiwgniaog.git
 cd qq-farm-bot-404
 
 # 构建并启动容器
@@ -70,7 +70,7 @@ docker compose down
 #### 运行命令
 
 ```bash
-git clone https://github.com/aaang99/qq-farm-bot-404.git
+git clone https://github.com/xmyunggg/nawiognaiwgniaog.git
 cd qq-farm-bot-404
 
 # 启用 corepack 并安装依赖
